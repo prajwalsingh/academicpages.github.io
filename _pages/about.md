@@ -7,4 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a computer science and engineering postgraduate student and my research interest is in Computer Vision and Machine Learning.
+I am a computer science and engineering postgraduate student and my research interests are Image and Video synthesis, 3D shape reconstruction from images and Information preserving embedding spaces for Image/Text/3D-shapes.
