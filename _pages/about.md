@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Prajwal's Coordinate"
+title: "About Me"
 excerpt: ""
 author_profile: true
 redirect_from: 
