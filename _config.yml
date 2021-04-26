@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Prajwal Kumar Singh"
-  avatar           : "profile.png"
+#   avatar           : "profile.png"
   bio              : "Computer Vision and Machine Learning Enthusiast"
   location         : "Varanasi, Uttar Pradesh (India)"
   employer         :
